@@ -108,6 +108,7 @@ line-height: 22px;
     width: 100%;
     max-height: 70px;
     height: 100%;
+    border-radius: 40px;
 /* top: 32px
 left: 24px */
 
@@ -156,6 +157,6 @@ display: flex;
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
-    
+
 }
 </style>
